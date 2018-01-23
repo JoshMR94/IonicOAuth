@@ -85,4 +85,5 @@
         <variable name="APP_ID" value="1764312283590858" />
         <variable name="APP_NAME" value="Joshua's first Ionic app" />
     </plugin>
+    <engine name="android" spec="~7.0.0" />
 </widget>
