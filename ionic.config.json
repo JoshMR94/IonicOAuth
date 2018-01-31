@@ -1,6 +1,6 @@
 {
   "name": "IonicOAuth",
-  "app_id": "",
+  "app_id": "2c618397",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
